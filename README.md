@@ -7,7 +7,8 @@ My linux-0.11 study, for 16bit 8086 machine.
 * search baidupan, Linux内核完全注释    
 * https://github.com/yuan-xy/Linux-0.11  
 * http://www.oldlinux.org  
-* search baidupan, linux-0.11-devel-040809.zip  
+* search baidupan, linux-0.11-devel-040809.zip
+* 另一本类似的书叫：Linux 0.01内核分析与操作系统设计    
 
 ## linux-0.11-lab  
 * (dead) https://gitee.com/tinylab/linux-0.11-lab    
@@ -66,8 +67,6 @@ Ctrl+Alt+1
 * 总体来说linux 0.11的软盘根文件系统最好使用bochs（虽然后来有人搞出了支持qemu的根文件系统），那么xv6呢？xv6的qemu是双IDE硬盘，第一个硬盘是OS镜像，第二个硬盘是根文件系统，而且根文件系统是通过c程序生成的，比较容易修改。linux 0.11把整个gcc（古老版本）打进去硬盘版的根文件系统中，所以只能在qemu里头自己打代码然后编译了，不够方便  
 
 ## Linux 0.01内核分析与操作系统设计  
-
-## Linux内核完全注释  
 
 ## (TODO) linux 0.01, DrAcOnUx's web page  
 * https://lwn.net/Articles/263562/  
