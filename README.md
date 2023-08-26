@@ -18,7 +18,8 @@ My linux-0.11 study, for 16bit 8086 machine.
 * search baidupan, linux-0.11-lab-master.zip  
 ubuntu1404 success  
 rpd2017 compile failed  
-* http://showdesk.io/2017-03-18-17-54-23-linux-0.11-lab-usage-00-06-42/  
+* http://showdesk.io/2017-03-18-17-54-23-linux-0.11-lab-usage-00-06-42/
+```
 sudo apt install qemu-system-x86  
 sudo apt install bochs bochs-sdl  
 sudo apt install bochs-x   
@@ -26,6 +27,7 @@ make switch #switch to bochs
 make start #only for bochs  
 make start-fd #not work  
 make start-hd #with gcc and mkfs command  
+```
 * qemu monitor:  
 -monitor stdio  
 Ctrl+Alt+2:  
