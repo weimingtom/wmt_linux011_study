@@ -28,12 +28,14 @@ make start #only for bochs
 make start-fd #not work  
 make start-hd #with gcc and mkfs command  
 ```
-* qemu monitor:  
+* qemu monitor:
+```
 -monitor stdio  
 Ctrl+Alt+2:  
 (qemu) info block  
 (qemu) change floppy0 rootfs/rootimage-0.11  
 Ctrl+Alt+1  
+```
 * 我的研究
 ```
 我研究一下，如果不考虑代码可能的差异，比较容易编译和运行linux 0.11的方法通过这个项目：
