@@ -20,6 +20,8 @@ mingw build
 * (todo) k210 version  
 https://github.com/lizhirui/K210-Linux0.11  
 lizhirui_K210-Linux0.11-master.zip  
+Linux0.11 with MMU for K210(RISC-V) Version  
 
 * linux-0.11-lab  
-https://gitee.com/tinylab/linux-0.11-lab  
+(dead) https://gitee.com/tinylab/linux-0.11-lab  
+https://github.com/zirandu/linux-0.11-lab
