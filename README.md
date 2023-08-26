@@ -4,14 +4,14 @@ My linux-0.11 study, for 16bit 8086 machine.
 # ref  
 
 ## Linux内核完全注释  
-search baidupan, Linux内核完全注释    
-https://github.com/yuan-xy/Linux-0.11  
-http://www.oldlinux.org  
-search baidupan, linux-0.11-devel-040809.zip  
+* search baidupan, Linux内核完全注释    
+* https://github.com/yuan-xy/Linux-0.11  
+* http://www.oldlinux.org  
+* search baidupan, linux-0.11-devel-040809.zip  
 
 ## linux-0.11-lab  
-(dead) https://gitee.com/tinylab/linux-0.11-lab  
-https://github.com/zirandu/linux-0.11-lab
+* (dead) https://gitee.com/tinylab/linux-0.11-lab    
+* https://github.com/zirandu/linux-0.11-lab  
 
 ## (todo) k210 version  
 * https://github.com/lizhirui/K210-Linux0.11  
