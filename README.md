@@ -56,11 +56,11 @@ linux 0.11把整个gcc（古老版本）打进去硬盘版的根文件系统中�
 所以只能在qemu里头自己打代码然后编译了，不够方便
 ```
 
-## (todo) k210 version  
+## K210-Linux0.11  
 * https://github.com/lizhirui/K210-Linux0.11  
 lizhirui_K210-Linux0.11-master.zip  
 Linux0.11 with MMU for K210(RISC-V) Version  
-K210-Linux0.11  
+* (todo) k210 version  
 
 ## 真正能在windows下编译的linux 0.11  
 * search baidupan, linux-0.11.rar  
