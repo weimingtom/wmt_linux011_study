@@ -75,7 +75,7 @@ K210-Linux0.11
 ## 品读 Linux 0.11 核心代码  
 * https://github.com/dibingfa/flash-linux0.11-talk  
 * 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码  
-* https://github.com/sunym1993/flash-linux0.11-talk  
+* (old name) https://github.com/sunym1993/flash-linux0.11-talk  
 
 ## linux-0.11-quickstart-debug-bochs2.7  
 * https://gitee.com/Camio1945/linux-0.11-quickstart-debug-bochs2.7  
