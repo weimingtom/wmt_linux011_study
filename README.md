@@ -15,39 +15,6 @@ My linux-0.11 study, for 16bit 8086 machine.
 ## linux-0.11-lab  
 * (dead) https://gitee.com/tinylab/linux-0.11-lab    
 * https://github.com/zirandu/linux-0.11-lab  
-
-## (todo) k210 version  
-* https://github.com/lizhirui/K210-Linux0.11  
-lizhirui_K210-Linux0.11-master.zip  
-Linux0.11 with MMU for K210(RISC-V) Version  
-K210-Linux0.11  
-
-## 真正能在windows下编译的linux 0.11  
-* search baidupan, linux-0.11.rar  
-* mingw build     
-* 能在windows环境下编译的Linux 0.11了,不是在Cygwin,也不是在虚拟机里,而是使用MinGW  
-* oldlinux吧  
-* VC6版见下，https://github.com/beride/linux0.11-1    
-
-## linux0.11-1, 中文注释, VC  
-* https://github.com/beride/linux0.11-1  
-
-## 品读 Linux 0.11 核心代码  
-* https://github.com/dibingfa/flash-linux0.11-talk  
-* 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码  
-* https://github.com/sunym1993/flash-linux0.11-talk  
-
-## linux-0.11-quickstart-debug-bochs2.7  
-* https://gitee.com/Camio1945/linux-0.11-quickstart-debug-bochs2.7  
-```
-转：
-原仓库 flash-linux0.11-talk 中使用的是 Bochs-2.3.6，
-这个版本的 Bochs 不支持 GUI 调试，所以我把它改成了 Bochs-2.7 ，
-以方便使用 GUI 调试，其他代码一概未做改动。
-```
-
-## linux 0.11 lab  
-* https://github.com/zirandu/linux-0.11-lab  
 * search baidupan, linux-0.11-lab-master.zip  
 ubuntu1404 success  
 rpd2017 compile failed  
@@ -83,6 +50,36 @@ make start-hd（bochs和qemu都支持，文件系统是第一个硬盘）。
 而且根文件系统是通过c程序生成的，比较容易修改。
 linux 0.11把整个gcc（古老版本）打进去硬盘版的根文件系统中，
 所以只能在qemu里头自己打代码然后编译了，不够方便
+```
+
+## (todo) k210 version  
+* https://github.com/lizhirui/K210-Linux0.11  
+lizhirui_K210-Linux0.11-master.zip  
+Linux0.11 with MMU for K210(RISC-V) Version  
+K210-Linux0.11  
+
+## 真正能在windows下编译的linux 0.11  
+* search baidupan, linux-0.11.rar  
+* mingw build     
+* 能在windows环境下编译的Linux 0.11了,不是在Cygwin,也不是在虚拟机里,而是使用MinGW  
+* oldlinux吧  
+* VC6版见下，https://github.com/beride/linux0.11-1    
+
+## linux0.11-1, 中文注释, VC  
+* https://github.com/beride/linux0.11-1  
+
+## 品读 Linux 0.11 核心代码  
+* https://github.com/dibingfa/flash-linux0.11-talk  
+* 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码  
+* https://github.com/sunym1993/flash-linux0.11-talk  
+
+## linux-0.11-quickstart-debug-bochs2.7  
+* https://gitee.com/Camio1945/linux-0.11-quickstart-debug-bochs2.7  
+```
+转：
+原仓库 flash-linux0.11-talk 中使用的是 Bochs-2.3.6，
+这个版本的 Bochs 不支持 GUI 调试，所以我把它改成了 Bochs-2.7 ，
+以方便使用 GUI 调试，其他代码一概未做改动。
 ```
 
 ## (TODO) linux 0.01, DrAcOnUx's web page  
