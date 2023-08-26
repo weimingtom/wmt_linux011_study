@@ -20,8 +20,10 @@ Linux0.11 with MMU for K210(RISC-V) Version
 K210-Linux0.11  
 
 ## 真正能在windows下编译的linux 0.11  
-search baidupan, linux-0.11.rar  
-mingw build     
+* search baidupan, linux-0.11.rar  
+* mingw build     
+* 能在windows环境下编译的Linux 0.11了,不是在Cygwin,也不是在虚拟机里,而是使用MinGW  
+* oldlinux吧  
 
 ## 品读 Linux 0.11 核心代码  
 * https://github.com/dibingfa/flash-linux0.11-talk  
@@ -71,10 +73,6 @@ https://github.com/beride/linux0.11-1
 * https://lwn.net/Articles/263562/  
 * http://draconux.free.fr/os_dev/linux0.01_news.html  
 * search work_linux_0.01  
-
-## 能在windows环境下编译的Linux 0.11了,不是在Cygwin,也不是在虚拟机里,而是使用MinGW  
-* search linux-0.11.rar  
-* oldlinux吧  
 
 ## MinixFsImg  
 * https://tieba.baidu.com/p/4371332592
