@@ -11,3 +11,6 @@ My linux-0.11 study, for 16bit 8086 machine.
 
 * todo k210 version  
 lizhirui_K210-Linux0.11-master.zip  
+
+* linux-0.11-lab  
+https://gitee.com/tinylab/linux-0.11-lab  
