@@ -114,3 +114,6 @@ Linux0.11 with MMU for K210(RISC-V) Version
 linux-2.4.37_redhat9_build_qemu_good.tar.gz
 ```
 
+## linux 2.2 ps2  
+* https://github.com/jur/linux-2.2.1-ps2  
+
