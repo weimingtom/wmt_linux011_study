@@ -102,6 +102,7 @@ Linux0.11 with MMU for K210(RISC-V) Version
 ## qemu.7z  
 
 ## redhat9 build linux-2.4.37, xubuntu 20 qemu run bzImage    
+* search linux-2.4.37_redhat9_build_qemu_good.tar.gz  
 * xubuntu 20.04 64bit qemu  
 * sudo apt install qemu-system-x86  
 * qemu-system-i368 -kernel bzImage  
