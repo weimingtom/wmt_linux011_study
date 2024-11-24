@@ -100,3 +100,16 @@ Linux0.11 with MMU for K210(RISC-V) Version
 * https://github.com/yuan-xy/Linux-0.11  
 
 ## qemu.7z  
+
+## redhat9 build linux-2.4.37, xubuntu 20 qemu run bzImage    
+* xubuntu 20.04 64bit qemu  
+* sudo apt install qemu-system-x86  
+* qemu-system-i368 -kernel bzImage  
+```
+如果说用redhat 9编译linux内核，用xubuntu 20的qemu-system-i386运行（apt install qemu-system-x86），
+我目前试过只有linux-2.4.37可以成功启动（使用arch/i386/defconfig默认配置），而其他诸如2.2.13和2.4.17都不成功，
+真撞大运，主要跑不起来也很难调试。运行是-kernel bzImage，编译是make dep; make bzImage。
+似乎不能用vmlinux文件直接运行。如果是MIPS的话我本人好像目前最旧能运行的版本是2.6.35
+linux-2.4.37_redhat9_build_qemu_good.tar.gz
+```
+
