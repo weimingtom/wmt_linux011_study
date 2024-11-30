@@ -120,7 +120,11 @@ linux-2.4.37_redhat9_build_qemu_good.tar.gz
 ## 【硬核】自己开发操作系统的书籍和资料推荐，想开发操作系统？不知道从何入手？来看看我的书单吧！  
 * https://www.bilibili.com/video/BV1wz4y1R7Sa  
 
-## Building linux 2.2 and 2.4 kernel bzImage with Debian 3 
+## Building linux 2.2 and 2.4 kernel bzImage with Debian 3  
+* debian-30r6-dvd-i386-binary-1.iso  
+* https://cdimage.debian.org/mirror/cdimage/archive/  
+* https://cdimage.debian.org/mirror/cdimage/archive/older-contrib/2.2/  
+* https://cdimage.debian.org/mirror/cdimage/archive/3.0_r6/i386/iso-dvd/  
 * Used Debian 3 is wihout X11, because X11 start failed; Debian 3 uses gcc 2.95.4 and linux 2.2.20       
 * Building Linux 2.2 and 2.4 need Debian 3, Debian 5 couldn't build Linux 2.2 and 2.4  
 * Linux 2.6 can be built under Debian 5 and above
