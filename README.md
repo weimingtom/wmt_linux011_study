@@ -128,7 +128,7 @@ linux-2.4.37_redhat9_build_qemu_good.tar.gz
 * Used Debian 3 is wihout X11, because X11 start failed; Debian 3 uses gcc 2.95.4 and linux 2.2.20       
 * Building Linux 2.2 and 2.4 need Debian 3, Debian 5 couldn't build Linux 2.2 and 2.4  
 * Linux 2.6 can be built under Debian 5 and above
-* Linux 2.2.13 kernel bzImage can be started successfully by doxbox-x + loadlin (not need dd, need set cpu type Pentium Pro or above)   
+* Linux 2.2.13 kernel bzImage can be started successfully by dosbox-x + loadlin (not need dd, need set cpu type Pentium Pro or above)   
 * (Linux 2.2.13 kernel bzImage can be started) also by bochs (not need dd) and old version qemu 0.12.5 (need dd)    
 busybox dd if=bzImage-2.2.13.img of=a.img bs=1K count=1440 conv=notrunc  
 * Linux 2.4.17 kernel bzImage couldn't be started with any emulators
