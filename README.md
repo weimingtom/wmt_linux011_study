@@ -117,3 +117,5 @@ linux-2.4.37_redhat9_build_qemu_good.tar.gz
 ## linux 2.2 ps2  
 * https://github.com/jur/linux-2.2.1-ps2  
 
+## 【硬核】自己开发操作系统的书籍和资料推荐，想开发操作系统？不知道从何入手？来看看我的书单吧！  
+* https://www.bilibili.com/video/BV1wz4y1R7Sa  
