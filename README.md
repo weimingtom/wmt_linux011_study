@@ -191,3 +191,13 @@ Linux的发行版通常只会是2.6和以后，ubuntu的gcc通常只会是4和�
 只有很少情况会碰到旧版本，例如Debian 3可以编译2.2、2.4和以前的内核，
 但Debian 5以后就不行，qemu也可能不支持2.2和以前的内核，只能用bochs或旧版的qemu
 ```
+
+## 从零开始写Linux内核  
+* https://github.com/ALexei-Stukov/Linux_0.11
+* 还有很多从零开始写linux内核的仓库  
+* 这本书未买  
+
+## How to create an OS from scratch  
+* https://littleosbook.github.io  
+* 从零开始编写一个操作系统教程  
+* https://github.com/ruiers/os-tutorial-cn  
