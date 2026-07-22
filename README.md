@@ -201,3 +201,8 @@ Linux的发行版通常只会是2.6和以后，ubuntu的gcc通常只会是4和�
 * https://littleosbook.github.io  
 * 从零开始编写一个操作系统教程  
 * https://github.com/ruiers/os-tutorial-cn  
+
+## [8K 120FPS]什么 我启动了来自20年前的Linux0.01? 这可能是最详细的教程
+* https://github.com/mariuz/linux-0.01
+* https://www.bilibili.com/video/BV1RENb6nEaN/
+* **(TODO)**
