@@ -6,9 +6,10 @@ My linux-0.11 study, for 16bit 8086 machine.
 ## Linux内核完全注释  
 * search baidupan, Linux内核完全注释    
 * https://github.com/yuan-xy/Linux-0.11  
-* http://www.oldlinux.org  
+* http://www.oldlinux.org
 * search baidupan, linux-0.11-devel-040809.zip
 * 另一本类似的书叫：Linux 0.01内核分析与操作系统设计    
+* https://github.com/oldlinux-web/oldlinux-files  
 
 ## Linux 0.01内核分析与操作系统设计  
 
