@@ -207,3 +207,7 @@ Linux的发行版通常只会是2.6和以后，ubuntu的gcc通常只会是4和�
 * https://github.com/mariuz/linux-0.01
 * https://www.bilibili.com/video/BV1RENb6nEaN/
 * **(TODO)**
+
+## ELKS
+* https://github.com/ghaerr/elks
+* https://www.bilibili.com/video/BV1yP4G6GEi6/
