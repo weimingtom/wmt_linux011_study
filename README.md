@@ -211,3 +211,6 @@ Linux的发行版通常只会是2.6和以后，ubuntu的gcc通常只会是4和�
 ## ELKS
 * https://github.com/ghaerr/elks
 * https://www.bilibili.com/video/BV1yP4G6GEi6/
+
+## gray386linux
+* https://github.com/marmolak/gray386linux
